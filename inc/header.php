@@ -9,7 +9,7 @@
                     <a href="../operators.php" class="uk-text-success">Operators</a>
                 </li>
                 <li class="uk-text-bold">
-                    <a href="../info.php" class="uk-text-success">More</a>
+                    <a href="../types.php" class="uk-text-success">Types</a>
                 </li>
             </ul>
         </div>
