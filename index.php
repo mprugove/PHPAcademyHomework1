@@ -17,7 +17,7 @@
             <article class="uk-article uk-background-mute">
                 <h5 class="uk-article-title"><strong>Simple form</strong></h5>
                 <form action="post" class="uk-form-stacked" id="form">
-                    <label for="" class="uk-form-label">How do you like Academy so far</label> <br>
+                    How do you like Academy so far <br>
                     <input type="text" placeholder="Name" class="uk-input uk-text"> <br>
                     <select class="uk-select" id="form-stacked-select">
                         <option>Excellent</option>
