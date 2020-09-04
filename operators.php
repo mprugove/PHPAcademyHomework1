@@ -12,12 +12,12 @@ $num5 = 12;
 <!doctype html>
 <html lang="en">
 <head>
-    <?php require 'inc/head.php'; ?>
+    <?php require_once 'inc/head.php'; ?>
     <title><?= appTitle;?></title>
 </head>
 <body>
 <div class="uk-grid-small uk-child-width-auto">
-    <?php include 'inc/header.php'; ?>
+    <?php include_once 'inc/header.php'; ?>
     <div class="uk-width uk-padding-large">
         <h1 class="uk-text-left uk-text-bold"><i>PHP Operators & data types</i> </h1>
         <div class="">
