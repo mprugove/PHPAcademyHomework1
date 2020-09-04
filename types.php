@@ -15,7 +15,7 @@
 
         <div class="uk-child-width-expand uk-grid-small-uk-grid-match" uk-grid>
             <div class="uk-card uk-card-body uk-card-default uk-card-hover uk-card-small uk-margin-large-left ">
-                <div class="uk-card-title"><p><h3>PHP data types :</h3></p></div>
+                <div class="uk-card-title"><h3>PHP data types :</h3></div>
                 <dl class="uk-list ">
                     <dt class="uk-text-primary">String </dt>
                         <dd class="uk-margin-large-left">String can be any text inside single or double quotes</dd>
