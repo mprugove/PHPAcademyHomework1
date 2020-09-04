@@ -37,10 +37,8 @@ $num5 = 12;
             <table class="uk-table uk-table-hover uk-table-divider uk-table-small">
                 <thead>
                 <tr class="uk-table-expand">
-                    <th>
-                        <caption>
-                            <h4><i>Few operator examples</i></h4>
-                        </caption>
+                    <th>    
+                            <i>Few operator examples</i>                    
                     </th>
                     <th> </th>
                     <td> <b><?= "\$x = " . $num1 . ", \$y = " . $num2 . ", \$i = ". $num3 .", \$z = " . "\"$num4\"" . ", \$c = " . $num5; ?></b> </td>
